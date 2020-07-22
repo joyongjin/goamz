@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/goamz/s3"
-	"github.com/mitchellh/goamz/testutil"
+	"github.com/joyongjin/goamz/aws"
+	"github.com/joyongjin/goamz/s3"
+	"github.com/joyongjin/goamz/testutil"
 	. "github.com/motain/gocheck"
 	"net"
 	"sort"

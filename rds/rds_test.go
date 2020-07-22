@@ -1,9 +1,9 @@
 package rds_test
 
 import (
-	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/goamz/rds"
-	"github.com/mitchellh/goamz/testutil"
+	"github.com/joyongjin/goamz/aws"
+	"github.com/joyongjin/goamz/rds"
+	"github.com/joyongjin/goamz/testutil"
 	. "github.com/motain/gocheck"
 	"testing"
 )

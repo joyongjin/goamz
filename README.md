@@ -18,8 +18,8 @@ please [file an issue](https://github.com/mitchellh/goamz).
 package main
 
 import (
-  "github.com/mitchellh/goamz/aws"
-  "github.com/mitchellh/goamz/s3"
+  "github.com/joyongjin/goamz/aws"
+  "github.com/joyongjin/goamz/s3"
   "log"
   "fmt"
 )

@@ -1,9 +1,9 @@
 package sns_test
 
 import (
-	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/goamz/exp/sns"
-	"github.com/mitchellh/goamz/testutil"
+	"github.com/joyongjin/goamz/aws"
+	"github.com/joyongjin/goamz/exp/sns"
+	"github.com/joyongjin/goamz/testutil"
 	. "github.com/motain/gocheck"
 	"testing"
 )
