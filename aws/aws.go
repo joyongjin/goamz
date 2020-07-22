@@ -192,6 +192,23 @@ var APNortheast = Region{
 	"https://route53.amazonaws.com",
 }
 
+var APNortheast2 = Region{
+	"ap-northeast-2",
+	"https://ec2.ap-northeast-2.amazonaws.com",
+	"https://s3-ap-northeast-2.amazonaws.com",
+	"",
+	true,
+	true,
+	"https://sdb.ap-northeast-2.amazonaws.com",
+	"https://sns.ap-northeast-2.amazonaws.com",
+	"https://sqs.ap-northeast-2.amazonaws.com",
+	"https://iam.amazonaws.com",
+	"https://elasticloadbalancing.ap-northeast-2.amazonaws.com",
+	"https://autoscaling.ap-northeast-2.amazonaws.com",
+	"https://rds.ap-northeast-2.amazonaws.com",
+	"https://route53.amazonaws.com",
+}
+
 var SAEast = Region{
 	"sa-east-1",
 	"https://ec2.sa-east-1.amazonaws.com",
@@ -228,6 +245,7 @@ var CNNorth = Region{
 
 var Regions = map[string]Region{
 	APNortheast.Name:  APNortheast,
+	APNortheast2.Name:  APNortheast2,
 	APSoutheast.Name:  APSoutheast,
 	APSoutheast2.Name: APSoutheast2,
 	EUWest.Name:       EUWest,
