@@ -1,7 +1,7 @@
 package mturk
 
 import (
-	"github.com/joyongjin/goamz/aws"
+	"github.com/jrog612/goamz/aws"
 )
 
 func Sign(auth aws.Auth, service, method, timestamp string, params map[string]string) {

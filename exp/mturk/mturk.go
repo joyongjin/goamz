@@ -17,7 +17,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"github.com/joyongjin/goamz/aws"
+	"github.com/jrog612/goamz/aws"
 	"net/http"
 	//"net/http/httputil"
 	"net/url"

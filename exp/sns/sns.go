@@ -20,7 +20,7 @@ package sns
 
 import (
 	"encoding/xml"
-	"github.com/joyongjin/goamz/aws"
+	"github.com/jrog612/goamz/aws"
 	"net/http"
 	"net/url"
 	"time"

@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/joyongjin/goamz/aws"
+	"github.com/jrog612/goamz/aws"
 )
 
 const debug = false

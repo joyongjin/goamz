@@ -3,9 +3,9 @@ package ec2_test
 import (
 	"testing"
 
-	"github.com/joyongjin/goamz/aws"
-	"github.com/joyongjin/goamz/ec2"
-	"github.com/joyongjin/goamz/testutil"
+	"github.com/jrog612/goamz/aws"
+	"github.com/jrog612/goamz/ec2"
+	"github.com/jrog612/goamz/testutil"
 	. "github.com/motain/gocheck"
 )
 

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/joyongjin/goamz/aws"
+	"github.com/jrog612/goamz/aws"
 )
 
 var b64 = base64.StdEncoding
